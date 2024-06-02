@@ -1,0 +1,2 @@
+# NeoVim
+Конфиг для Neovim
